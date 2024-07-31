@@ -17,9 +17,9 @@ Este repositório contém o código e a documentação para o desenvolvimento do
    - **Nome do curso**, **Descrição do curso**, **Instrutor**, **Data de início**, **Data de fim**, **Numero de vagas** e **Tipo de curso**. Estes são os dados mínimos necessários para cadastrar um novo curso na plataforma .
 
 2. **Validações**:
-  - **Nome do curso**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 80 caracteres
+  - **Nome do curso**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
   - **Descrição do curso**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
-  - **Instrutor**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 80 caracteres
+  - **Instrutor**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
   - **Data de início**: Campo com máscara de calendário
   - **Data de fim**: Campo com máscara de calendário
   - **Números de vagas**: Campo apenas numérico e deve permitir apenas números inteiros positivos
