@@ -22,7 +22,7 @@ Este repositório contém o código e a documentação para o desenvolvimento do
   - **Instrutor**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 80 caracteres
   - **Data de início**: Campo com máscara de calendário
   - **Data de fim**: Campo com máscara de calendário
-  - **Numeros de vagas**: Campo apenas numérico e deve permitir apenas números inteiros positivos
+  - **Números de vagas**: Campo apenas numérico e deve permitir apenas números inteiros positivos
   - **Tipo de curso**: Dropdown com opções de Presencial ou Online
 
 3. **Mensagens de Erro**:
