@@ -17,7 +17,7 @@
 1. **Campos Obrigatórios**: 
    - **Nome do curso**, **Descrição do curso**, **Instrutor**, **Data de início**, **Data de fim**, **Numero de vagas** e **Tipo de curso**. Estes são os dados mínimos necessários para cadastrar um novo curso na plataforma .
 
-2. **Validações**:
+2. **Validações e Critérios de Aceite**:
   - **Nome do curso**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
   - **Descrição do curso**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
   - **Instrutor**: Campo alfanúmerico com no mínimo 5 caracteres e no máximo 255 caracteres
