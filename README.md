@@ -1,7 +1,8 @@
 # Formulário de Inscrição do Beedoo
 
 ## Visão Geral
-Este repositório contém o código e a documentação para o desenvolvimento do formulário de inscrição do Beedoo. O objetivo é permitir que usuários com acesso cadastre novos cursos na plataforma de forma intuitiva e segura.
+- Este repositório contém User Story e documentação para o desenvolvimento do formulário de inscrição do Beedoo. O objetivo é permitir que usuários com acesso cadastre novos cursos na plataforma de forma intuitiva e segura.
+- Aqui também encontrará os links para acessar os casos de testes em Gherkin, os bugs e vulnerabilidades encontradas e as evidências dos testes manuais realizados na plataforma.
 
 ## User Story
 
@@ -39,5 +40,8 @@ Este repositório contém o código e a documentação para o desenvolvimento do
    - Testes foram incluídos para verificar a funcionalidade e validação do formulário, garantindo que ele atenda aos requisitos estabelecidos.
    - Garantir que o formulário funcione como esperado e que todos os requisitos sejam atendidos é crucial para a entrega de um produto de qualidade.
 
-## Estrutura do Projeto
+## Links Importantes
+   - Casos de testes:
+   - Relatório de bugs e vulnerabilidades:
+   - Evidências:
 
